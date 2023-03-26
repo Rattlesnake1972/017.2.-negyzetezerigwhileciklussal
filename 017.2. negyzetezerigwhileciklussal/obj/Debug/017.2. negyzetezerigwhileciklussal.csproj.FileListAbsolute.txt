@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\017.2. negyzetezerigwhileciklussal\017.2. negyzetezerigwhileciklussal\bin\Debug\_017._2.negyzetezerigwhileciklussal.exe.config
+C:\Users\gratt\source\repos\017.2. negyzetezerigwhileciklussal\017.2. negyzetezerigwhileciklussal\bin\Debug\_017._2.negyzetezerigwhileciklussal.exe
+C:\Users\gratt\source\repos\017.2. negyzetezerigwhileciklussal\017.2. negyzetezerigwhileciklussal\bin\Debug\_017._2.negyzetezerigwhileciklussal.pdb
+C:\Users\gratt\source\repos\017.2. negyzetezerigwhileciklussal\017.2. negyzetezerigwhileciklussal\obj\Debug\017.2. negyzetezerigwhileciklussal.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\017.2. negyzetezerigwhileciklussal\017.2. negyzetezerigwhileciklussal\obj\Debug\_017._2.negyzetezerigwhileciklussal.exe
+C:\Users\gratt\source\repos\017.2. negyzetezerigwhileciklussal\017.2. negyzetezerigwhileciklussal\obj\Debug\_017._2.negyzetezerigwhileciklussal.pdb
